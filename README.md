@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Aylin 👋
 
-<!--
-**aylinmercan-web/aylinmercan-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning **Web Development** and documenting my learning journey here.
 
-Here are some ideas to get you started:
+### 👩‍💻 Background
+- Language & communication specialist
+- Online teaching experience
+- Transitioning into tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- HTML
+- CSS
+- JavaScript
+
+### 🎯 Goals
+- Build real-world web projects
+- Improve frontend development skills
+- Maintain a clean and consistent GitHub profile
+
+
