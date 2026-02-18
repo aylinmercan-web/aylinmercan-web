@@ -2,12 +2,12 @@
 
 I'm currently learning **Web Development** and documenting my learning journey here.
 
-### 👩‍💻 Background
+###  Background
 - Language & communication specialist
 - Online teaching experience
 - Transitioning into tech
 
-### 🌱 Currently learning
+###  Currently learning
 - HTML
 - CSS
 - JavaScript
