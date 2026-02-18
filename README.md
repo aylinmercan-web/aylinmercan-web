@@ -1,6 +1,10 @@
 ## Hi, I'm Aylin 👋
 
-I'm currently learning **Web Development** and documenting my learning journey here.
+I'm currently learning **Web Development** and sharing my progress here.
+
+- JavaScript learner (WorkinTech)
+- Building real-world logic-based projects
+- Focused on problem-solving and algorithms
 
 ###  Background
 - Language & communication specialist
@@ -8,13 +12,13 @@ I'm currently learning **Web Development** and documenting my learning journey h
 - Transitioning into tech
 
 ###  Currently learning
-- HTML
-- CSS
 - JavaScript
+- HTML 
+- CSS
 
 ### 🎯 Goals
 - Build real-world web projects
 - Improve frontend development skills
-- Maintain a clean and consistent GitHub profile
+- Create a strong  and consistent GitHub profile
 
 
