@@ -1,24 +1,22 @@
 ## Hi, I'm Aylin 👋
 
-I'm currently learning **Web Development** and sharing my progress here.
+Aspiring Frontend Developer | Background in language & communication
 
-- JavaScript learner (WorkinTech)
-- Building real-world logic-based projects
-- Focused on problem-solving and algorithms
+- Workintech Frontend Developer Program graduate (480 hours)
+- Building real-world projects with React, Redux & Tailwind CSS
+- Focused on clean UI, problem-solving and writing readable code
 
-###  Background
+### Background
 - Language & communication specialist
 - Online teaching experience
-- Transitioning into tech
+- Transitioned into tech through an intensive bootcamp
 
-###  Currently learning
-- JavaScript
-- HTML 
-- CSS
+### Tech Stack
+- JavaScript, React, React Router, Redux
+- Tailwind CSS, HTML, CSS
+- Git & GitHub
 
 ### 🎯 Goals
-- Build real-world web projects
-- Improve frontend development skills
-- Create a strong  and consistent GitHub profile
-
-
+- Land my first Frontend Developer role
+- Keep building real-world web projects
+- Grow into backend development next
